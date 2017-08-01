@@ -1,6 +1,7 @@
 (function () {
 
   'use strict';
+  
 
   // Assert Function
   function assert(hand, value) {
